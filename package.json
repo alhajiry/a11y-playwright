@@ -1,0 +1,24 @@
+{
+  "name": "a11y-playwright",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alhajiry/a11y-playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alhajiry/a11y-playwright/issues"
+  },
+  "homepage": "https://github.com/alhajiry/a11y-playwright#readme",
+  "description": "",
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.1",
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.9",
+    "dotenv": "^16.4.7"
+  }
+}
